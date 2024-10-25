@@ -1,4 +1,6 @@
 # Breakable-Toy-ToDoApp
+last backend-> https://github.com/michelleSOS-Encora/Breakable-BackEnd.git
+last frontend-> https://github.com/michelleSOS-Encora/Breakable-FrontEnd.git
 
 OVERVIEW
 This ‘Breakable Toy’, is a To Do Application that allows users to manage their tasks, including creating, updating, consulting, marking as done and deleting tasks, navigating trough the application and tasks with a pagination, filtering and search component.
